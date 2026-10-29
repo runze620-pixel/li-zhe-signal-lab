@@ -1,1 +1,5 @@
 
+interface:
+  display_name: "李哲信号实验"
+  short_description: "按李哲信号实验的个人格式整理 MATLAB 实验，保留代码、独立图像和精简中文说明"
+  default_prompt: "使用 $li-zhe-signal-lab，按李哲信号实验的格式整理当前实验，保留代码和每张图的独立输出，精简知识点、解释题答案和实验总结。"
